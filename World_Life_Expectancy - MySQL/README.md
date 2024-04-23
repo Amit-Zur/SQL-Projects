@@ -27,3 +27,24 @@ Dataset after the first cleaning process
 </p>
 
 ## EDA - Exploratory Data Analysis 
+
+### I started by examaining life expectancy increase over the years.
+<p align="center">
+  <img src="https://github.com/Amit-Zur/SQL-Projects/assets/112909022/909e666d-58b8-496f-a70d-e99853e0234e" width="600" height="450">
+</p>
+Keypoints:
+
+1. The top countries predominantly consist of developing nations, highlighting the significant role of socio-economic factors in life expectancy.
+2. Top-ranking countries initially exhibited low life expectancy, indicating substantial potential for improvement and growth over time.
+
+### Life expectancy relationship with GDP
+<p align="center">
+  <img src="https://github.com/Amit-Zur/SQL-Projects/assets/112909022/cfd233aa-5c5d-474b-a3f3-de90e9c9b81e" width="600" height="450">
+</p>
+
+Keypoints:
+
+1. Developed countries account for a minority of the total number of countries globally, with only 32 compared to 161 developing nations.
+2. Despite their lower count, developed countries demonstrate notably higher average GDP compared to developing nations.
+3. A noticeable correlation emerges between higher average GDP and longer life expectancy, suggesting the impact of economic prosperity on health outcomes.
+
