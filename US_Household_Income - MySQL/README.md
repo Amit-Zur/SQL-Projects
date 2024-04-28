@@ -9,8 +9,25 @@ It encompasses a range of variables, including:
 - `County`
 - `City`
 - `Type` (Indicates the type of area, such as urban, rural, suburban, or village, etc)
-- `ALand` (The land area in square meters)
-- `AWater` (The water area in square meters)
+- `ALand` (The land area in square miles)
+- `AWater` (The water area in square miles)
 - `Mean` (The mean household income)
 - `Median` (The median household income)
 
+## Data Cleaning 
+I conducted a thorough data cleaning process to enhance the quality and integrity of the US Household Income dataset. This involved meticulously identifying and removing duplicate records, addressing missing values, correcting inconsistencies in formatting and labeling, and ensuring overall data quality. These rigorous measures were implemented to guarantee the reliability and accuracy of subsequent analysis results.
+
+## EDA - Exploratory Data Analysis 
+
+### I started by examaining which states are the largest
+
+<p align="center">
+  <img src="https://github.com/Amit-Zur/SQL-Projects/assets/112909022/6ebf00a9-0ae5-4ec5-8d26-911f87592ef3" width="1000" height="450">
+<br>
+This visualization was built using <a href="https://public.tableau.com/views/US_Household_IncomeProject-BiggestStates/Sheet7?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">Tableau</a>
+</p>
+
+Keypoints:
+
+1. Some land & water data might be corrupt, it doesn't correlate with the wiki page
+2. This graph serves as a reference point for the subsequent data analysis
