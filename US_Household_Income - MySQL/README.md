@@ -51,7 +51,33 @@ Keypoints:
 1. The disparity in household income between the highest and lowest states is substantial
 2. A correlation could potentially exist between household income and the cost of living in each state
 
+### Average Household Income by Area Type
 
+<p align="center">
+  <img src="https://github.com/Amit-Zur/SQL-Projects/assets/112909022/c338a21e-0464-4790-9d33-3c350b5f4fdd" width="600" height="750">
+<br>
+This visualization was built using <a href="https://public.tableau.com/views/US_Household_IncomeProject-AverageIncomeByAreaType/Sheet9?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link">Tableau</a>
+</p>
+
+Keyponits: 
+1. Metropolitan areas, characterized by boroughs and districts, might show higher mean household incomes compared to other types of areas, indicating the economic advantages of living in densely populated urban centers
+   * While urban areas often offer greater economic opportunities, including higher-paying jobs, access to amenities, and cultural experiences, they also typically come with a higher cost of living. This can include expenses such as housing, transportation, and daily necessities, which can offset the higher incomes earned by residents
+2. In addition to economic factors, the decision to live in urban, suburban, or rural areas may also be influenced by quality of life considerations. While urban areas may offer higher incomes and greater access to amenities and cultural opportunities, they can also be associated with factors such as higher levels of pollution, noise, and congestion, as well as reduced green space and recreational areas. In contrast, suburban and rural areas may offer a quieter, more relaxed lifestyle with closer proximity to nature and lower levels of pollution, but they may have fewer job opportunities and amenities compared to urban centers
+
+## Key insights and Conclusions
+
+### Key insights
+
+- The analysis reveals significant disparities in average household income between different states. This suggests that economic conditions and opportunities vary widely across the United States
+- Metropolitan areas, characterized by densely populated urban centers, tend to have higher mean household incomes compared to other types of areas. This indicates the economic advantages of living in urban centers, such as greater job opportunities and access to amenities
+- While urban areas offer higher incomes, they also come with a higher cost of living, including expenses such as housing and transportation. This suggests that individuals must consider the trade-offs between higher incomes and increased expenses when choosing where to live
+
+### Conclusions  
+
+-  The substantial income disparities between states highlight the need for targeted policies to address economic inequality and promote economic development in less affluent regions
+-  The higher household incomes observed in metropolitan areas underscore the importance of urbanization in driving economic growth and prosperity. However, policymakers must also address the challenges associated with urban living, such as the high cost of living and environmental concerns
+-  Individuals and policymakers alike must carefully balance economic considerations with quality of life factors when making decisions about where to live and how to allocate resources. This requires a comprehensive approach that takes into account both economic opportunities and the broader well-being of residents
+-  Tailored regional policies that address the unique economic and social needs of different areas can help mitigate income disparities and promote inclusive economic growth across the country
 
 
 
